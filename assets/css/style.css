@@ -1,0 +1,29 @@
+/* Common */
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { background-color: #222; color: white; }
+
+/* Utilities */
+.container {
+  width: 1200px;
+  margin: auto;
+}
+
+.w100 {
+  width: 100%;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.justify-content-between {
+  justify-content: space-between;
+}
+
+.pa-1 {
+  padding: 1rem;
+}
+
+.pa-2 {
+  padding: 2rem;
+}
